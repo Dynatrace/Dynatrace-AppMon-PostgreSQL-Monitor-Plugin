@@ -5,4 +5,4 @@ PostgreSQL monitor Plugin allows you to monitor the values in key statistics Pos
 
 Find further information in the [dynaTrace community](https://community.compuwareapm.com/community/display/DL/PostgreSQL+Monitor+Plugin)
 
-For downloads check out [releases](https://github.com/dynaTrace/Dynatrace-PostgreSQL-Monitor-Plugin/releases) 
+For downloads go to [releases](https://github.com/dynaTrace/Dynatrace-PostgreSQL-Monitor-Plugin/releases) 
