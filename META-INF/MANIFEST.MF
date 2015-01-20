@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Require-Bundle: com.dynatrace.diagnostics.sdk
+Bundle-Vendor: Fernando Lewandowski Albuquerque (fernando.lewandowski@
+ gmail.com)
+Bundle-ClassPath: .,lib/postgresql-9.3-1102.jdbc41.jar
+Bundle-Version: 1.0.0
+Bundle-Name: PostgreSQL
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.dynatrace.postmon;singleton:=true
+
