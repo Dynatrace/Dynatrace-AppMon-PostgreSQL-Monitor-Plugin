@@ -19,7 +19,7 @@ public class PostPlugin {
 	public Status setup(MonitorEnvironment env) throws Exception {
 
 		br.com.elosoft.postmon.jdbc.Connection c = new br.com.elosoft.postmon.jdbc.Connection();
-		conn = c.getConnection(env.getConfigString("hostName"),
+		conn = c.getConnection(env.getHost().getAddress(),
 				env.getConfigString("dbPort"), env.getConfigString("dbName"),
 				env.getConfigString("dbUsername"),
 				env.getConfigPassword("dbPassword"));

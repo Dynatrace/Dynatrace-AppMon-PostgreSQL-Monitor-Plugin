@@ -10,7 +10,6 @@
       <supportlevel value="unsupported" />
     </information>
     <configuration>
-      <property key="hostName" label="hostName" type="string" description="HostName" default="localhost" multiline="false" />
       <property key="dbName" label="dbName" type="string" description="Database Name" default="" multiline="false" />
       <property key="dbPort" label="dbPort" type="string" description="Database Port" default="5432" multiline="false" />
       <property key="dbUsername" label="dbUsername" type="string" description="Database Username" default="isagabi" multiline="false" />
@@ -114,4 +113,3 @@
     </metricgroup>
   </extension>
 </plugin>
-
